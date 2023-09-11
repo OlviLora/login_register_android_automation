@@ -3,12 +3,12 @@ This project contains web automation built using Appium with UIAutomator2 with t
 
 ## Features
 The scenario in this web automation consists of 7 test cases:
-1. [[POSITIVE] User Successfully Registered and Login to App](https://github.com/OlviLora/login_register_android_automation/blob/master/src/teast/resources/features/register_login_success.feature)
+1. [[POSITIVE] User Successfully Registered and Login to App](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/register_login_success.feature)
 2. [[NEGATIVE] User Register with Empty Name](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/register_empty_name.feature)
 3. [[NEGATIVE] User Register with Empty Password](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/register_empty_password.feature)
 4. [[NEGATIVE] User Register with Invalid Email Format](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/register_invalid_email_format.feature)
 5. [[NEGATIVE] User Register with Password doesn't match with Confirm Password](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/register_password_not_match.feature)
-6. [NE[GATIVE] User Login with Invalid Email Format](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/login_invalid_email_format.feature)
+6. [[NEGATIVE] User Login with Invalid Email Format](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/login_invalid_email_format.feature)
 7. [[NEGATIVE] User Login with Not Registered Email](https://github.com/OlviLora/login_register_android_automation/blob/master/src/test/resources/features/login_not_register_email.feature)
 
 ## Prerequisites
